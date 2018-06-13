@@ -20,7 +20,7 @@ body {
 	font-family: 'Play', sans-serif;
 }
 
-header#mainHeader {
+/*header#mainHeader {
 	background-color: violet;
 	width: 20vw;
 	height: 100vh;
@@ -75,9 +75,9 @@ header#mainHeader > nav > ul > li > a.projects:hover {
 header#mainHeader > nav > ul > li > a.contact:hover {
 	background-color: indigo;
 	color: white;
-}
+}*/
 
-main#wrapper {
+/*main#wrapper {
 	background-color: gray;
 	margin-left: 20vw;
 }
@@ -153,9 +153,9 @@ section#contact {
 
 section#contact > p {
 	margin: 0 25px;
-}
+}*/
 
-footer#mainFooter {
+/*footer#mainFooter {
 	background-color: white;
 }
 
@@ -179,7 +179,7 @@ footer#mainFooter > div#right > ul {
 footer#mainFooter > div#right > ul > li {
 	display: inline-block;
 	padding: 5px; 
-}
+}*/
 
 
 .clear:after {
